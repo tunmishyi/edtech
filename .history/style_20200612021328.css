@@ -64,6 +64,7 @@ h1 {
         background-color: #ffa949;
         padding-top: 170px;
         height: 850px;
+        box-sizing: border-box;
        }
     
     .title {
@@ -111,7 +112,8 @@ h1 {
 
     .primary-content,
     .secondary-content {
-        width: 75%;
+        width: 9 60px;
+        box-sizing: border-box;
         padding-left: 50px;
         padding-right: 50px;
         margin: auto;

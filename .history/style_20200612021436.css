@@ -111,7 +111,8 @@ h1 {
 
     .primary-content,
     .secondary-content {
-        width: 75%;
+        width: 9 60px;
+        box-sizing: border-box;
         padding-left: 50px;
         padding-right: 50px;
         margin: auto;

@@ -1,13 +1,9 @@
-/*Base Styles------ */
-
-* {
-     box-sizing: border-box;
-}
+/*Type Selectors */
 
 body {
    color: #878787;
    margin: 0;
-   font: 1em/1.5 "Helvetica Neue" Helvetica, Arial, sans-serif;
+   font-size: 1em;
 }
 
 h1 {
@@ -62,7 +58,7 @@ h1 {
     
     .main-header {
         background-color: #ffa949;
-        padding-top: 170px;
+        padding-top: 130px;
         height: 850px;
        }
     
@@ -111,9 +107,7 @@ h1 {
 
     .primary-content,
     .secondary-content {
-        width: 75%;
-        padding-left: 50px;
-        padding-right: 50px;
+        width: 60%;
         margin: auto;
     }
     
